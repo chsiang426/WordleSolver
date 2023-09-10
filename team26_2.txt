@@ -1,0 +1,57 @@
+AdvanCe
+1; saltier; "0,2,0,0,0,2,0"
+2; donahoe; "2,0,2,1,0,0,1"
+3; advance; "3,1,1,1,1,3,1"
+4; AdvanCe; "1,1,1,1,1,1,1"
+4
+aNiTole
+1; saltier; "0,2,2,3,2,2,0"
+2; leitman; "2,2,1,3,0,2,4"
+3; anitole; "1,3,1,3,1,1,1"
+4; aNiTole; "1,1,1,1,1,1,1"
+4
+awakEnS
+1; saltier; "4,2,0,0,0,4,0"
+2; meadows; "0,4,1,0,0,2,3"
+3; awakens; "1,1,1,1,3,1,3"
+4; awakEnS; "1,1,1,1,1,1,1"
+4
+babbler
+1; saltier; "0,1,2,0,0,1,1"
+2; candler; "0,1,0,0,1,1,1"
+3; warbler; "0,1,0,1,1,1,1"
+4; babbler; "1,1,1,1,1,1,1"
+4
+begemaN
+1; saltier; "0,2,0,0,0,2,0"
+2; donahoe; "0,0,4,2,0,0,2"
+3; begeman; "1,1,1,1,1,1,3"
+4; begemaN; "1,1,1,1,1,1,1"
+4
+biovest
+1; saltier; "2,0,0,2,2,2,0"
+2; dissent; "0,1,2,0,1,0,1"
+3; biovest; "1,1,1,1,1,1,1"
+3
+blended
+1; saltier; "0,0,2,0,0,1,0"
+2; lunched; "2,0,2,0,0,1,1"
+3; blended; "1,1,1,1,1,1,1"
+3
+bRomONT
+1; saltier; "0,0,0,4,0,0,4"
+2; cothron; "0,2,4,0,4,4,4"
+3; bromont; "1,3,1,1,3,3,3"
+4; bRomONT; "1,1,1,1,1,1,1"
+4
+BurnouT
+1; saltier; "0,0,0,4,0,0,2"
+2; cothron; "0,2,4,0,2,0,2"
+3; burnout; "3,1,1,1,1,1,3"
+4; BurnouT; "1,1,1,1,1,1,1"
+4
+cArtIEr
+1; saltier; "0,3,0,1,3,3,1"
+2; cartier; "1,3,1,1,3,3,1"
+3; cArtIEr; "1,1,1,1,1,1,1"
+3
